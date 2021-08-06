@@ -11,6 +11,12 @@ body {
   box-sizing: border-box;
 }
 
+.portfolio {
+  margin: 30px;
+
+
+}
+
 img {
   height: 300px;
   width: auto;
@@ -19,11 +25,8 @@ img {
   box-sizing: border-box;
 }
 
-
 .about-me-text {
   float: right;
   width: 78%;
   height: auto;
-
-
 }
