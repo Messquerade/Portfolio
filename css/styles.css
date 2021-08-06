@@ -15,4 +15,13 @@ body {
 img {
   height: 300px;
   width: auto;
+  float: left;
+  border: #7B6057 solid;
+  box-sizing: border-box;
+}
+
+about-me-text {
+  float: left;
+
+
 }
