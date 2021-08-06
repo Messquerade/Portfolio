@@ -1,8 +1,14 @@
+body {
+  background-color: #E2CABE;
+  color: #342C35;
+}
+
 .header {
-  background-color: #DF6167;
+  background-color: #B2D3FC;
   margin: 20px;
   padding: 30px;
-  border: #373E4F solid;
+  border: #7B6057 solid;
+
 
 
 }
