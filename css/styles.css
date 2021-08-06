@@ -1,6 +1,7 @@
 body {
   background-color: #E2CABE;
   color: #342C35;
+  margin: 40px;
 }
 
 .header {
@@ -8,7 +9,10 @@ body {
   margin: 20px;
   padding: 30px;
   border: #7B6057 solid;
+  box-sizing: border-box;
+}
 
-
-
+img {
+  height: 300px;
+  width: auto;
 }
