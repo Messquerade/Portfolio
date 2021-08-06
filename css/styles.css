@@ -5,7 +5,7 @@ body {
 
 .header {
   background-color: #B2D3FC;
-  margin: 20px;
+  margin: 10px;
   padding: 30px;
   border: #7B6057 solid;
   box-sizing: border-box;
@@ -13,7 +13,8 @@ body {
 
 .portfolio {
   margin: 30px;
-
+  border: #7B6057 solid;
+  padding: 10px;
 
 }
 
@@ -29,4 +30,10 @@ img {
   float: right;
   width: 78%;
   height: auto;
+}
+
+.link {
+  background-color: #B2D3FC;
+  padding: 3px;
+  font-style: oblique;
 }
