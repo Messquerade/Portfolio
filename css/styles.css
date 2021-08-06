@@ -1,7 +1,6 @@
 body {
   background-color: #E2CABE;
   color: #342C35;
-  margin: 40px;
 }
 
 .header {
@@ -20,8 +19,11 @@ img {
   box-sizing: border-box;
 }
 
-about-me-text {
-  float: left;
+
+.about-me-text {
+  float: right;
+  width: 78%;
+  height: auto;
 
 
 }
